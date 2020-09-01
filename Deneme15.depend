@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589734429 source:c:\users\kübra usluca\desktop\prolab\pro-2_2\deneme15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
